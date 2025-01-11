@@ -1,5 +1,5 @@
 # Safe Cities Hackathon
-![ciao]([image/Screenshot 2025-01-11 175708.png](https://github.com/Filo-White/Safe_Cities_Hackathon/blob/main/image/Screenshot%202025-01-11%20175708.png)
+![ciao](https://github.com/Filo-White/Safe_Cities_Hackathon/blob/main/image/Screenshot%202025-01-11%20175708.png)
 
 This repository contains our project submission for the SafeCities Hackathon, part of the SummerSOC2024 event. Our work focuses on leveraging Knowledge Graphs (KG) and Large Language Models (LLMs) to tackle challenges related to the Safe Cities Security Vulnerability Assessment (SVA) framework.
 
