@@ -88,3 +88,14 @@ cp .env.sample .env
  * `NEO4J_USERNAME`: username of neo4j DB
  * `NEO4J_PASSWORD`: password for ne4j DB
  * `NEO4J_URL`: URL of neo4j DB
+
+
+
+ # Documentation
+For more detailed information on the underlying concepts and methodologies that Martialis is based on, please refer to the following papers:
+
+1. **Bianchini F., Calamo M., De Luzi F., Macrì M and Mecella M. (2024)** - [*Enhancing Complex Linguistic Tasks Resolution through Fine-tuning LLMs, RAG, and Knowledge Graphs*](https://doi.org/10.1007/978-3-031-61003-5_13)
+   This paper introduces the integration of Knowledge Graphs into the RAG framework to solve complex linguistic tasks in domain-specific contexts. It lays the foundation for the approach used in Martialis, focusing on improving LLM capabilities by incorporating structured knowledge.
+
+2. **Bianchini F., Calamo M., De Luzi F., Macrì M and Mecella M. (2024)** - [*A Service-Based Pipeline for Complex Linguistic Tasks Adopting LLMs and Knowledge Graphs*](https://doi.org/10.1007/978-3-031-72578-4_8)  
+   This work presents a service-based framework that adapts LLMs and Knowledge Graphs to provide precise answers and domain-specific text generation. It discusses the modular architecture and the potential for applying Martialis across various industries, including healthcare and law.
