@@ -60,11 +60,11 @@ First of all, clone the repository:
 
 
 ```bash
-git clone https://github.com/DIAG-Sapienza-BPM-Smart-Spaces/Martialis.git
+git clone https://github.com/Filo-White/Safe_Cities_Hackathon.git
 ```
 
 ```bash
-cd Martialis
+cd src
 ```
 
 Before starting, ensure you have the required libraries listed in the requirements.txt file:
