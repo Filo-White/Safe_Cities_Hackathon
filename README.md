@@ -83,9 +83,8 @@ cp .env.sample .env
 ```
 
 2. Update variables in the `.env` file:
- * `OPEN_API_KEY`: 
- * `NEO4J_USERNAME`:
- * `NEO4J_PASSWORD`:
- * `NEO4J_URL`:
- * `DOCUMENT_PATH (optional)`:
- * `ONTOLOGY_PATH (optional)`: 
+ * `OPEN_API_KEY`: your openai key
+ * `LLAMA_API_KEY`: your llama key
+ * `NEO4J_USERNAME`: username of neo4j DB
+ * `NEO4J_PASSWORD`: password for ne4j DB
+ * `NEO4J_URL`: URL of neo4j DB
